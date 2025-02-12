@@ -1,0 +1,1 @@
+ALTER TABLE project ADD COLUMN budget DECIMAL(10,2);
